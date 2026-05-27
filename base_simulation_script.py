@@ -8,7 +8,7 @@ np.random.seed(42) # Verdad absoluta del universo.
 n = 100000
 
 regions = ['México', 'Chile', 'Brazil', 'Argentina', 'Colombia','Perú'] # principales mercados de latam.
-case_types = ['Order Delay', 'Pricing Issue', 'Documentation', 'Technical Support']
+case_types = ['Order Delay', 'Pricing Issue', 'Documentation', 'Technical Support', 'Order modifications','Order entry']
 customer_types = ['Distributor', 'End Customer']
 
 # Genera información base.
